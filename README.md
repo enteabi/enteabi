@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @enteabi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hallo, ich bin Ente
+- Ich bin Seit anfang 2022
+- Profi Developer im Bereich:
+- HTML, Java Scripting und CSS
 
-<!---
-enteabi/enteabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+discord.gg/flixv
