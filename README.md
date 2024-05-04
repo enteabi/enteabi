@@ -1,6 +1,5 @@
-- Hallo, ich bin Ente
-- Ich bin Seit anfang 2022
-- Profi Developer im Bereich:
-- HTML, Java Scripting und CSS
+welcome to my profile. 
+have fun and write me if you need help.
 
-discord.gg/flixv
+discord: 3ente
+bio: https://e-z.bio/enteabi
